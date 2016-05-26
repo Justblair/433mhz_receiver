@@ -1,0 +1,9 @@
+*.xml
+__vm/.tx_433mhz_digispark.vsarduino.h
+*.filters
+tx_433mhz_digispark.vcxproj
+*.sln
+Debug/tx_433mhz_digispark.ino.hex
+*.elf
+Debug/board.buildinfo
+*.suo
